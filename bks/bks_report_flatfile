@@ -76,7 +76,8 @@ CREATE PROCEDURE    bks.report_flatfile
                     (
                         @selectFullAccountingPeriod INT = 0,
                         @pullDataPeriods VARCHAR(5) = 'FYTD',
-                        @orghierLevel4 CHAR(6) = ''
+                        @orghierLevel4 CHAR(6) = '',
+                        @teamID INT = 0
                     )
                     AS
                     BEGIN
