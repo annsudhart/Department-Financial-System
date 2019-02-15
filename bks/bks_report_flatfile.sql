@@ -99,9 +99,11 @@ CREATE PROCEDURE    bks.report_flatfile
                             SET @startingFiscalPeriodTXT = CAST(@startingFiscalPeriod AS VARCHAR(6));
                             SET @endingFiscalPeriodTXT = CAST(@endingFiscalPeriod AS VARCHAR(6));
                             
-                            SET @SQL = 'SELECT  CONVERT(INT,LEFT(CONVERT(varchar,DATEADD(month,6,pur.transaction_date),112),6)) AS full_accounting_period, 
+                            SET @SQL = 'SELECT  LEFT(CONVERT(varchar,DATEADD(month,6,pur.transaction_date),112),6) AS full_accounting_period,
+                                                item.index_code, 
                                                 oh3.orghier_level3, 
                                                 oh4.orghier_level4, 
+                                                oh4.orghier_level4_title,
                                                 i.organization, 
                                                 fh.fundhier_level1, 
                                                 fh.fundhier_level2, 
@@ -109,16 +111,17 @@ CREATE PROCEDURE    bks.report_flatfile
                                                 i.fund, 
                                                 (CASE   WHEN msn.mission_id IS NULL THEN 3 
                                                         ELSE msn.mission_id 
-                                                END) AS ''Mission'', 
+                                                END) AS ''Mission'',
                                                 (CASE   WHEN cdo.project_type_short IS NULL THEN ''CDO'' 
                                                         ELSE cdo.project_type_short 
                                                 END) AS ''Project_Type'', 
                                                 i.program, 
                                                 item.account_code,
-                                                acct.pa_title
+                                                acct.pa_title,
                                                 tm.team_id, 
                                                 pur.transaction_date,
                                                 pur.purchase_invoice_number,
+                                                item.transaction_amount AS ''line_item_amount'',
                                                 pur.transaction_amount,
                                                 pur.use_tax_amount,
                                                 pur.employee_id,
@@ -135,6 +138,7 @@ CREATE PROCEDURE    bks.report_flatfile
                             SET @SQL = @SQL + 'FROM    pur.bks_line_item                           AS item 
                                                         INNER JOIN      pur.bks_purchase            AS pur  ON pur.bks_transaction_id = item.bks_transaction_id
                                                         INNER JOIN      coa_db.indx                 AS i    ON i.indx = item.index_code 
+                                                                                                            AND i.most_recent_flag = ''Y''
                                                         INNER JOIN      coa_db.orgnhier_table       AS oh   ON oh.orgn_code = i.organization 
                                                         INNER JOIN      coa_db.fundhier_table       AS fh   ON i.fund = fh.fund_code 
                                                         LEFT OUTER JOIN qlink_db.orghier_level3     AS oh3  ON oh.orgnhier_level3 = oh3.orghier_level3 
@@ -157,7 +161,7 @@ CREATE PROCEDURE    bks.report_flatfile
                                                         AND oh.orgnhier_level3 IN (''JBAA03'') 
                                                         AND i.indx NOT IN (''MEDBD65'') '
                             
-                            SET @SQL = @SQL + 'AND bal.full_accounting_period BETWEEN ' + @startingFiscalPeriodTXT + ' AND ' + @endingFiscalPeriodTXT + ' ';
+                            SET @SQL = @SQL + 'AND LEFT(CONVERT(varchar,DATEADD(month,6,pur.transaction_date),112),6) BETWEEN ' + @startingFiscalPeriodTXT + ' AND ' + @endingFiscalPeriodTXT + ' ';
 
                             IF @orghierLevel4 <> '' SET @SQL = @SQL + 'AND oh4.orghier_level4 IN(''' + @orghierLevel4 + ''') ';
 
@@ -169,7 +173,7 @@ CREATE PROCEDURE    bks.report_flatfile
                                                             pur.employee_name,
                                                             pur.transaction_date,
                                                             pur.purchase_invoice_number,
-                                                            pur.line_item_description '
+                                                            item.line_item_description '
 
                             EXEC(@SQL);
 

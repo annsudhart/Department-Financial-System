@@ -119,6 +119,7 @@ CREATE VIEW ql.index_balance
                     END) AS 'Month_End'
             FROM    ga_fact.overdraft_by_index AS bal
                     INNER JOIN      coa_db.indx                 AS i    ON i.indx_key = bal.indx_key
+                                                                        AND i.most_recent_lfag = 'Y'
                     INNER JOIN      coa_db.orgnhier_table       AS oh   ON oh.orgn_code = i.organization 
                     INNER JOIN      coa_db.fundhier_table       AS fh   ON i.fund = fh.fund_code
                     LEFT OUTER JOIN qlink_db.orghier_level3     AS oh3  ON oh.orgnhier_level3 = oh3.orghier_level3
