@@ -80,7 +80,8 @@ CREATE PROCEDURE    ql.operating_ledger_pldetail
                         @acctAdjBOY BIT = 1,
                         @acctAdjEOY BIT = 1,
                         @acctAdjAnl BIT = 1,
-                        @teamID INT = 0
+                        @teamID INT = 0,
+                        @pi_account_index CHAR(10) = ''
                     )
                     AS
                     BEGIN
@@ -341,6 +342,8 @@ CREATE PROCEDURE    ql.operating_ledger_pldetail
                             IF @acctAdjEOY = 0 SET @SQL = @SQL + 'AND CAST(CASE SUBSTRING(CAST(ifoapal.full_accounting_period AS CHAR(6)) , 5 , 2) WHEN ''00'' THEN 1 WHEN ''13'' THEN 1 WHEN ''14'' THEN 1 ELSE 0 END AS BIT) = 0 ';
 
                             IF @teamID <> 0 SET @SQL = @SQL + 'AND tm.team_id = ' + CAST(@teamID AS VARCHAR(MAX)) + ' ';
+
+                            IF @pi_account_index <>'' SET @SQL = @SQL + 'AND ifoapal.pi_account_index IN(''' + @pi_account_index + ''') ';
 
                             SET @SQL = @SQL + 'GROUP BY ifoapal.full_accounting_period, 
                                                         oh3.orghier_level3, 

@@ -79,7 +79,8 @@ CREATE PROCEDURE    ql.index_balance_pldetail
                         @acctAdjBOY BIT = 1,
                         @acctAdjEOY BIT = 1,
                         @acctAdjAnl BIT = 1,
-                        @teamID INT = 0
+                        @teamID INT = 0,
+                        @pi_account_index CHAR(10) = ''
                     )
                     AS
                     BEGIN
@@ -122,6 +123,7 @@ CREATE PROCEDURE    ql.index_balance_pldetail
                                                     d.Mission_Title,
                                                     d.team_id,
                                                     d.team_name,
+                                                    d.core_operations,
                                                     d.Overall_Balance,
                                                     d.ExpTransIDC_Balance,
                                                     d.fYTD_Revenue_Balance,
@@ -143,6 +145,8 @@ CREATE PROCEDURE    ql.index_balance_pldetail
                             IF @acctAdjEOY = 0 SET @SQL = @SQL + 'AND d.Acct_Adj_Anl = 0 ';
 
                             IF @teamID <> 0 SET @SQL = @SQL + 'AND d.team_id = ' + CAST(@teamID AS VARCHAR(MAX)) + ' ';
+
+                            IF @pi_account_index <>'' SET @SQL = @SQL + 'AND i.indx IN(''' + @pi_account_index + ''') ';
 
                             /*  
                                 MODIFIED:

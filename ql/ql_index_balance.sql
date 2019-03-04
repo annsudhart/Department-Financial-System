@@ -77,31 +77,34 @@ CREATE VIEW ql.index_balance
                     oh3.orghier_level3,
                     oh3.orghier_level3_title, 
                     oh4.orghier_level4,
-                    oh4.orghier_level4_title, 
+                    oh4.orghier_level4_title,
+                    i.organization, 
+                    i.organization_title,
                     fh.fundhier_level1, 
                     fh1.fundhier_level1_title, 
                     fh.fundhier_level2,
                     fh2.fundhier_level2_title, 
                     fh.fundhier_level3,
                     fh3.fundhier_level3_title,
-                    i.[status],
-                    i.indx,
                     i.fund,
-                    i.organization,
-                    i.program,
+                    i.fund_title,
                     (CASE WHEN msn.mission_id IS NULL THEN 3
                           ELSE msn.mission_id
                     END) AS 'Mission',
-                    i.indx_title,
-                    i.fund_title,
-                    i.organization_title,
-                    i.program_title,
-                    i.location_title,
                     (CASE WHEN msn.mission_id IS NULL THEN 'Research'
                           ELSE msn.mission_name
                     END) AS 'Mission_Title',
+                    (CASE   WHEN cdo.project_type_short IS NULL THEN 'CDO' 
+                                                        ELSE cdo.project_type_short 
+                    END) AS 'Project_Type',
+                    i.program,
+                    i.program_title,
                     tm.team_id,
                     tm.team_name,
+                    tm.core_operations,
+                    i.[status],
+                    i.indx,
+                    i.indx_title,
                     bal.overall_overdraft AS "Overall_Balance",
                     bal.exp_trans_overdraft AS "ExpTransIDC_Balance",
                     bal.fiscal_ytd_revenue AS "fYTD_Revenue_Balance",
@@ -116,21 +119,36 @@ CREATE VIEW ql.index_balance
                           WHEN '13' THEN NULL
                           WHEN '14' THEN DATEADD(dd,-1,DATEADD(mm,-5,CAST(SUBSTRING(CAST(bal.full_accounting_period AS VARCHAR(8)),1,4) + '12' +'01' AS DATETIME2)))
                           ELSE DATEADD(dd,-1,DATEADD(mm,-5,CAST(CAST(bal.full_accounting_period AS VARCHAR(8))+'01' AS DATETIME2)))
-                    END) AS 'Month_End'
+                    END) AS 'Month_End',
+                    (CASE i.program
+                          WHEN '404713' THEN 1 
+                          WHEN '404714' THEN 1 
+                          WHEN '404730' THEN 1 
+                          WHEN '404803' THEN 1 
+                          WHEN '404804' THEN 1 
+                          WHEN '404805' THEN 1 
+                          WHEN '404806' THEN 1 
+                          WHEN '404807' THEN 1 
+                          WHEN '444806' THEN 1 
+                          WHEN '444807' THEN 1 
+                          ELSE 0
+                    END) AS 'ExcludedProgram'
             FROM    ga_fact.overdraft_by_index AS bal
-                    INNER JOIN      coa_db.indx                 AS i    ON i.indx_key = bal.indx_key
-                                                                        AND i.most_recent_lfag = 'Y'
-                    INNER JOIN      coa_db.orgnhier_table       AS oh   ON oh.orgn_code = i.organization 
-                    INNER JOIN      coa_db.fundhier_table       AS fh   ON i.fund = fh.fund_code
-                    LEFT OUTER JOIN qlink_db.orghier_level3     AS oh3  ON oh.orgnhier_level3 = oh3.orghier_level3
-                    LEFT OUTER JOIN qlink_db.orghier_level4     AS oh4  ON oh.orgnhier_level4 = oh4.orghier_level4
-                    LEFT OUTER JOIN qlink_db.fundhier_level1    AS fh1  ON fh.fundhier_level1 = fh1.fundhier_level1
-                    LEFT OUTER JOIN qlink_db.fundhier_level2    AS fh2  ON fh.fundhier_level2 = fh2.fundhier_level2
-                    LEFT OUTER JOIN qlink_db.fundhier_level3    AS fh3  ON fh.fundhier_level3 = fh3.fundhier_level3
-                    LEFT OUTER JOIN fin.xref_mission            AS xref ON i.fund = xref.pf_fund
+                    INNER JOIN      coa_db.indx                 AS i    ON  i.indx_key = bal.indx_key
+                                                                        AND i.most_recent_flag = 'Y'
+                    INNER JOIN      coa_db.orgnhier_table       AS oh   ON  oh.orgn_code = i.organization 
+                    INNER JOIN      coa_db.fundhier_table       AS fh   ON  i.fund = fh.fund_code
+                    LEFT OUTER JOIN qlink_db.orghier_level3     AS oh3  ON  oh.orgnhier_level3 = oh3.orghier_level3
+                    LEFT OUTER JOIN qlink_db.orghier_level4     AS oh4  ON  oh.orgnhier_level4 = oh4.orghier_level4
+                    LEFT OUTER JOIN qlink_db.fundhier_level1    AS fh1  ON  fh.fundhier_level1 = fh1.fundhier_level1
+                    LEFT OUTER JOIN qlink_db.fundhier_level2    AS fh2  ON  fh.fundhier_level2 = fh2.fundhier_level2
+                    LEFT OUTER JOIN qlink_db.fundhier_level3    AS fh3  ON  fh.fundhier_level3 = fh3.fundhier_level3
+                    LEFT OUTER JOIN fin.xref_mission            AS xref ON  i.fund = xref.pf_fund
                                                                         AND i.program = xref.pp_program 
-                    LEFT OUTER JOIN cognos.mission              AS msn  ON xref.mission_id = msn.mission_id
+                    LEFT OUTER JOIN cognos.mission              AS msn  ON  xref.mission_id = msn.mission_id
                     LEFT OUTER JOIN dbo.team_index              AS tmi  ON  i.indx = tmi.index_code
+                    LEFT OUTER JOIN xref.index_project_type     AS xcdo ON i.indx = xcdo.indx 
+                    INNER JOIN      cognos.project_type         AS cdo  ON  cdo.project_type_id = xcdo.project_type_id 
                     LEFT OUTER JOIN dbo.team                    AS tm   ON  tmi.team_id = tm.team_id
                     INNER JOIN (SELECT  bal.month_key,
                                         i.organization,
@@ -138,6 +156,8 @@ CREATE VIEW ql.index_balance
                                         SUM(bal.overall_overdraft) AS 'org_fund_overall_overdraft'
                                 FROM    ga_fact.overdraft_by_index AS bal
                                         INNER JOIN coa_db.indx AS i ON i.indx_key = bal.indx_key
+                                WHERE   1 = 1
+                                        AND i.indx NOT IN ('MEDBD65') 
                                 GROUP BY bal.month_key,
                                          i.organization,
                                          i.fund
