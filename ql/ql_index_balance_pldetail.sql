@@ -123,7 +123,7 @@ CREATE PROCEDURE    ql.index_balance_pldetail
                                                     d.Mission_Title,
                                                     d.team_id,
                                                     d.team_name,
-                                                    d.core_operations,
+                                                    d.Core_Ops,
                                                     d.Overall_Balance,
                                                     d.ExpTransIDC_Balance,
                                                     d.fYTD_Revenue_Balance,

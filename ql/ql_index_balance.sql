@@ -101,7 +101,7 @@ CREATE VIEW ql.index_balance
                     i.program_title,
                     tm.team_id,
                     tm.team_name,
-                    tm.core_operations,
+                    (CASE WHEN tm.core_operations IS NULL THEN 0 ELSE tm.core_operations END) AS Core_Ops,
                     i.[status],
                     i.indx,
                     i.indx_title,

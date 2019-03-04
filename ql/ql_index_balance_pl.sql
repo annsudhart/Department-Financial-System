@@ -118,7 +118,7 @@ CREATE PROCEDURE    ql.index_balance_pl
                                                 END) AS ''Project_Type'', 
                                                 i.program, 
                                                 tm.team_id, 
-                                                tm.core_operations,
+                                                (CASE WHEN tm.core_operations IS NULL THEN 0 ELSE tm.core_operations END) AS Core_Ops,
                                                 SUM(bal.overall_overdraft) AS ''Overall_Balance'', 
                                                 SUM(bal.fiscal_ytd_encumbrance) AS ''Overall_Encumbrance'', 
                                                 (CASE   WHEN dfct.org_fund_overall_overdraft < 0 THEN 1 
@@ -197,6 +197,7 @@ CREATE PROCEDURE    ql.index_balance_pl
                                                             i.fund, 
                                                             i.program, 
                                                             tm.team_id, 
+                                                            (CASE WHEN tm.core_operations IS NULL THEN 0 ELSE tm.core_operations END),
                                                             tm.core_operations,
                                                             bal.overall_overdraft,
                                                             bal.fiscal_ytd_encumbrance, 
