@@ -242,7 +242,7 @@ CREATE PROCEDURE    ql.operating_ledger_pl
                                                         (CASE   WHEN msn.mission_id IS NULL THEN 3 ELSE msn.mission_id END), 
                                                         (CASE WHEN cdo.project_type_short IS NULL THEN ''CDO'' ELSE cdo.project_type_short END) '
 
-                            EXEC(@SQL);
+                            EXEC admin.runsql @SQL;
 
                         END TRY
                         BEGIN CATCH

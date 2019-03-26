@@ -221,7 +221,7 @@ CREATE PROCEDURE    ql.index_balance_pl
                                                                     ELSE 0 
                                                             END) '
 
-                            EXEC(@SQL);
+                            EXEC admin.runsql @SQL;
 
                         END TRY
                         BEGIN CATCH

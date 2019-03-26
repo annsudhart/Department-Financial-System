@@ -114,12 +114,12 @@ CREATE PROCEDURE    ql.index_balance_pldetail
                                                     d.fund,
                                                     d.organization,
                                                     d.program,
-                                                    d.Mission,
+                                                    d.Mission, 
+                                                    d.project_type, 
                                                     d.indx_title,
                                                     d.fund_title,
                                                     d.organization_title,
                                                     d.program_title,
-                                                    d.location_title,
                                                     d.Mission_Title,
                                                     d.team_id,
                                                     d.team_name,
@@ -169,8 +169,8 @@ CREATE PROCEDURE    ql.index_balance_pldetail
                                     - WHERE
                                     gd.context_description IN ('Current Fiscal Year','Last Fiscal Year')
                             */
-PRINT @SQL;
-                            EXEC(@SQL);
+
+                            EXEC admin.runsql @SQL;
 
                         END TRY
                         BEGIN CATCH
