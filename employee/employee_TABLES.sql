@@ -7,7 +7,7 @@ DESCRIPTION / NOTES:
 - Creates EMPLOYEE index tables
 ****************************************************************************************
 PREREQUISITES:
-- ERROR HANDLING
+- ERROR HANDLING 
 ***************************************************************************************/
 
 /*  GENERAL CONFIGURATION AND SETUP ***************************************************/
