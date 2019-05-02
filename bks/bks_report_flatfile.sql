@@ -1,1 +1,186 @@
-믯⾿⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪പ上浡⁥††㨠䴠摥捩湩⁥楆慮据慩⁬祓瑳浥ⴠ戠獫牟灥牯彴汦瑡楦敬਍楌散獮⁥†›潃祰楲桧⁴䌨 〲㜱唠楮敶獲瑩⁹景䌠污晩牯楮⁡慓⁮楄来൯ †††††䐠癥汥灯摥映牯䐠灥牡浴湥⁴景䴠摥捩湩⁥祢䴠瑡桴睥䌠‮慖摮牥楢瑬਍⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪਍䕄䍓䥒呐佉⁎ 低䕔㩓਍‭牐癯摩獥愠映慬⁴楦敬爠灥牯⁴景䈠潯獫潴敲琠慲獮捡楴湯൳⨊⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪പ倊䕒䕒啑卉呉卅ഺⴊ戠獫匠档浥⁡牃慥楴湯☠唠摰瑡൥ⴊ朠⁡捓敨慭䌠敲瑡潩⁮…灕慤整਍‭汱湩彫扤匠档浥⁡牃慥楴湯☠唠摰瑡൥ⴊ挠慯摟⁢捓敨慭䌠敲瑡潩⁮…灕慤整਍⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⼪਍਍⨯†䕇䕎䅒⁌佃䙎䝉剕呁佉⁎乁⁄䕓啔⁐⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⼪਍剐义⁔⨧‪敇敮慲⁬潃普杩牵瑡潩⁮…敓畴❰഻⼊‪䌠慨杮⁥慤慴慢敳挠湯整瑸琠⁯桴⁥灳捥晩敩⁤慤慴慢敳椠⁮兓⁌敓癲牥‮਍††瑨灴㩳⼯潤獣洮捩潲潳瑦挮浯支⵮獵猯汱琯猭汱氯湡畧条ⵥ汥浥湥獴甯敳琭慲獮捡⵴煳⁬⼪਍单⁅睤摟㭢਍佇਍਍⨯†灓捥晩⁹卉⁏潣灭楬湡⁴敢慨楶牯漠⁦桴⁥煅慵獬⠠⤽愠摮丠瑯䔠畱污吠⁯㰨⤾挠浯慰楲潳൮ †漠数慲潴獲眠敨⁮桴祥愠敲甠敳⁤楷桴渠汵⁬慶畬獥മ †栠瑴獰⼺搯捯⹳業牣獯景⹴潣⽭湥甭⽳煳⽬⵴煳⽬瑳瑡浥湥獴猯瑥愭獮⵩畮汬⵳牴湡慳瑣猭汱਍††‭†桗湥匠呅䄠华彉啎䱌⁓獩传ⱎ愠匠䱅䍅⁔瑳瑡浥湥⁴桴瑡甠敳⁳䡗剅⁅潣畬湭湟浡⁥‽啎䱌ഠ †††爠瑥牵獮稠牥⁯潲獷攠敶⁮晩琠敨敲愠敲渠汵⁬慶畬獥椠⁮潣畬湭湟浡⹥䄠匠䱅䍅⁔਍††††瑳瑡浥湥⁴桴瑡甠敳⁳䡗剅⁅潣畬湭湟浡⁥㸼丠䱕⁌敲畴湲⁳敺潲爠睯⁳癥湥椠⁦桴牥⁥਍††††牡⁥潮湮汵⁬慶畬獥椠⁮潣畬湭湟浡⹥ഠ †ⴠ†圠敨⁮䕓⁔乁䥓也䱕卌椠⁳䙏ⱆ琠敨䔠畱污⁳㴨 湡⁤潎⁴煅慵⁬潔⠠㸼 潣灭牡獩湯ഠ †††漠数慲潴獲搠⁯潮⁴潦汬睯琠敨䤠体猠慴摮牡⹤䄠匠䱅䍅⁔瑳瑡浥湥⁴桴瑡甠敳⁳䡗剅⁅਍††††潣畬湭湟浡⁥‽啎䱌爠瑥牵獮琠敨爠睯⁳桴瑡栠癡⁥畮汬瘠污敵⁳湩挠汯浵彮慮敭‮⁁਍††††䕓䕌呃猠慴整敭瑮琠慨⁴獵獥圠䕈䕒挠汯浵彮慮敭㰠‾啎䱌爠瑥牵獮琠敨爠睯⁳桴瑡ഠ †††栠癡⁥潮湮汵⁬慶畬獥椠⁮桴⁥潣畬湭‮汁潳‬⁡䕓䕌呃猠慴整敭瑮琠慨⁴獵獥圠䕈䕒ഠ †††挠汯浵彮慮敭㰠‾奘彚慶畬⁥敲畴湲⁳污⁬潲獷琠慨⁴牡⁥潮⁴奘彚慶畬⁥湡⁤桴瑡愠敲ഠ †††渠瑯丠䱕⹌⨠യ匊呅䄠华彉啎䱌⁓乏഻䜊൏ഊ⼊‪䌠畡敳⁳兓⁌敓癲牥琠⁯潦汬睯†卉⁏畲敬⁳敲慧摲湩⁧畱瑯瑡潩⁮慭歲椠敤瑮晩敩獲☠਍††楬整慲⁬瑳楲杮⹳਍††瑨灴㩳⼯潤獣洮捩潲潳瑦挮浯支⵮獵猯汱琯猭汱猯慴整敭瑮⽳敳⵴畱瑯摥椭敤瑮晩敩⵲牴湡慳瑣猭汱਍††‭†桗湥匠呅儠何䕔彄䑉久䥔䥆剅椠⁳乏‬摩湥楴楦牥⁳慣⁮敢搠汥浩瑩摥戠⁹潤扵敬ഠ †††焠潵慴楴湯洠牡獫‬湡⁤楬整慲獬洠獵⁴敢搠汥浩瑩摥戠⁹楳杮敬焠潵慴楴湯洠牡獫‮桗湥ഠ †††匠呅儠何䕔彄䑉久䥔䥆剅椠⁳䙏ⱆ椠敤瑮晩敩獲挠湡潮⁴敢焠潵整⁤湡⁤畭瑳映汯潬⁷污⁬਍††††牔湡慳瑣匭䱑爠汵獥映牯椠敤瑮晩敩獲‮⼪਍䕓⁔啑呏䑅䥟䕄呎䙉䕉⁒乏഻䜊൏ഊ⼊‪䌠䕒呁⁅䍓䕈䅍䤠⁆䕒啑剉䑅⨠⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪യ倊䥒呎✠⨪䌠敲瑡⁥捓敨慭椠⁦潎⵮硅獩整瑮㬧਍佇਍䙉匠䡃䵅彁䑉✨止❳ 卉丠䱕ൌऊ䕂䥇⁎剔൙ †††䔠䕘⡃䌧䕒呁⁅䍓䕈䅍戠獫⤧഻ †††䔠䕘⁃祳⹳灳慟摤硥整摮摥牰灯牥祴ഠ †††††䀠慮敭丽䴧当敄捳楲瑰潩❮‬਍††††††癀污敵丽儧敵祲楌歮儠敵楲獥Ⱗഠ †††††䀠敬敶ぬ祴数丽匧䡃䵅❁ബ †††††䀠敬敶ぬ慮敭丽戧獫㬧਍††久⁄剔൙ †䈠䝅义䌠呁䡃਍††††䙉传䩂䍅彔䑉✨扤⹯牐湩䕴牲牯⤧䤠⁓低⁔啎䱌䔠䕘⡃䔧䕘⁃扤⹯牐湩䕴牲牯⤧഻ †††䤠⁆䉏䕊呃䥟⡄搧潢䰮杯牅潲❲ 卉丠呏丠䱕⁌塅䍅✨塅䍅搠潢䰮杯牅潲❲㬩਍††久⁄䅃䍔ൈ䜊൏ഊ⼊‪嘠䱁䑉呁佉⁎…䱃䅅啎⁐⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪യ䤊⁆䉏䕊呃䥟⡄戧獫爮灥牯彴汦瑡楦敬Ⱗ倧⤧䤠⁓低⁔啎䱌䐠佒⁐剐䍏䑅剕⁅止⹳敲潰瑲晟慬晴汩㭥਍佇਍਍⨯†剐䍏䑅剕⁅剃䅅䥔乏⨠⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⨪⼪਍剐义⁔⨧‪剃䅅䕔倠佒䕃啄䕒㬧਍佇਍剃䅅䕔倠佒䕃啄䕒††止⹳敲潰瑲晟慬晴汩൥ †††††††††⠠਍††††††††††††獀汥捥䙴汵䅬捣畯瑮湩偧牥潩⁤义⁔‽ⰰ਍††††††††††††灀汵䑬瑡偡牥潩獤嘠剁䡃剁㔨 ‽䘧呙❄ബ †††††††††††䀠牯桧敩䱲癥汥‴䡃剁㘨 ‽✧ബ †††††††††††䀠整浡䑉䤠呎㴠〠਍††††††††††ഩ †††††††††䄠൓ †††††††††䈠䝅义਍††††††††††††䕂䥇⁎剔൙ †††††††††††††䐠䍅䅌䕒††䀠兓⁌十嘠剁䡃剁䴨塁㬩਍††††††††††††††䕄䱃剁⁅††獀慴瑲湩䙧獩慣偬牥潩⁤十䤠呎഻ †††††††††††††䐠䍅䅌䕒††䀠湥楤杮楆捳污敐楲摯䄠⁓义㭔਍††††††††††††††䕄䱃剁⁅††獀慴瑲湩䙧獩慣偬牥潩呤员䄠⁓䡃剁㘨㬩਍††††††††††††††䕄䱃剁⁅††敀摮湩䙧獩慣偬牥潩呤员䄠⁓䡃剁㘨㬩਍਍††††††††††††††䙉䀠敳敬瑣畆汬捁潣湵楴杮敐楲摯㴠〠匠呅䀠敳敬瑣畆汬捁潣湵楴杮敐楲摯㴠䌠十⡔但䵒呁䐨呁䅅䑄洨湯桴㘬ㄭ䜬呅䅄䕔⤨Ⱙ礧祹䵹❍ 十䤠呎㬩਍††††††††††††††䕓⁔敀摮湩䙧獩慣偬牥潩⁤‽獀汥捥䙴汵䅬捣畯瑮湩偧牥潩㭤਍††††††††††††††਍††††††††††††††䙉䀠異汬慄慴敐楲摯⁳‽䴧䑔‧䕓⁔獀慴瑲湩䙧獩慣偬牥潩⁤‽獀汥捥䙴汵䅬捣畯瑮湩偧牥潩㭤਍††††††††††††††䱅䕓䤠⁆灀汵䑬瑡偡牥潩獤㴠✠奆䑔‧䕓⁔獀慴瑲湩䙧獩慣偬牥潩⁤‽䅃呓匨䉕呓䥒䝎䌨十⡔䅃呓匨䉕呓䥒䝎䌨十⡔獀汥捥䙴汵䅬捣畯瑮湩偧牥潩ⵤ‱十䌠䅈⡒⤶Ⱙⰱ⤴䄠⁓义⥔ㄭ䄠⁓䡃剁㘨⤩ㄬ㐬 ‫ㄧ✴䄠⁓义⥔഻ †††††††††††††䔠卌⁅䙉䀠異汬慄慴敐楲摯⁳‽ㄧ䴲䑔‧䕓⁔獀慴瑲湩䙧獩慣偬牥潩⁤‽䅃呓䘨剏䅍⡔䅄䕔䑁⡄潭瑮ⱨㄭ⬲ⰱ䅃呓䌨十⡔獀汥捥䙴汵䅬捣畯瑮湩偧牥潩⁤十嘠剁䡃剁㠨⤩⬠✠㄰‧十䐠呁呅䵉㉅⤩✬祹祹䵍⤧䄠⁓义⥔഻ †††††††††††††䔠卌⁅䕓䕌呃䀠瑳牡楴杮楆捳污敐楲摯㴠䴠义搨昮汵彬捡潣湵楴杮灟牥潩⥤䘠佒⁍慧昮江摥敧彲捡楴楶祴䄠⁓㭤਍਍††††††††††††††䕓⁔獀慴瑲湩䙧獩慣偬牥潩呤员㴠䌠十⡔獀慴瑲湩䙧獩慣偬牥潩⁤十嘠剁䡃剁㘨⤩഻ †††††††††††††匠呅䀠湥楤杮楆捳污敐楲摯塔⁔‽䅃呓䀨湥楤杮楆捳污敐楲摯䄠⁓䅖䍒䅈⡒⤶㬩਍††††††††††††††਍††††††††††††††䕓⁔區䱑㴠✠䕓䕌呃†䕌呆䌨乏䕖呒瘨牡档牡䐬呁䅅䑄洨湯桴㘬瀬牵琮慲獮捡楴湯摟瑡⥥ㄬ㈱Ⱙ⤶䄠⁓畦汬慟捣畯瑮湩彧数楲摯ബ †††††††††††††††††††††††椠整⹭湩敤彸潣敤‬਍††††††††††††††††††††††††桯⸳牯桧敩彲敬敶㍬‬਍††††††††††††††††††††††††桯⸴牯桧敩彲敬敶㑬‬਍††††††††††††††††††††††††桯⸴牯桧敩彲敬敶㑬瑟瑩敬ബ †††††††††††††††††††††††椠漮杲湡穩瑡潩Ɱഠ †††††††††††††††††††††††映⹨畦摮楨牥江癥汥ⰱഠ †††††††††††††††††††††††映⹨畦摮楨牥江癥汥ⰲഠ †††††††††††††††††††††††映⹨畦摮楨牥江癥汥ⰳഠ †††††††††††††††††††††††椠昮湵Ɽഠ †††††††††††††††††††††††⠠䅃䕓†圠䕈⁎獭⹮業獳潩彮摩䤠⁓啎䱌吠䕈⁎″਍††††††††††††††††††††††††††††䱅䕓洠湳洮獩楳湯楟⁤਍††††††††††††††††††††††††久⥄䄠⁓✧楍獳潩❮Ⱗ਍††††††††††††††††††††††††䌨十⁅†䡗久挠潤瀮潲敪瑣瑟灹彥桳牯⁴卉丠䱕⁌䡔久✠䌧佄✧ഠ †††††††††††††††††††††††††††䔠卌⁅摣⹯牰橯捥彴祴数獟潨瑲ഠ †††††††††††††††††††††††䔠䑎 十✠倧潲敪瑣呟灹❥Ⱗഠ †††††††††††††††††††††††椠瀮潲牧浡‬਍††††††††††††††††††††††††瑩浥愮捣畯瑮损摯ⱥ਍††††††††††††††††††††††††捡瑣瀮彡楴汴ⱥ਍††††††††††††††††††††††††浴琮慥彭摩‬਍††††††††††††††††††††††††異⹲牴湡慳瑣潩彮慤整ബ †††††††††††††††††††††††瀠牵瀮牵档獡彥湩潶捩彥畮扭牥ബ †††††††††††††††††††††††椠整⹭牴湡慳瑣潩彮浡畯瑮䄠⁓✧楬敮楟整彭浡畯瑮✧ബ †††††††††††††††††††††††瀠牵琮慲獮捡楴湯慟潭湵ⱴ਍††††††††††††††††††††††††異⹲獵彥慴彸浡畯瑮ബ †††††††††††††††††††††††瀠牵攮灭潬敹彥摩ബ †††††††††††††††††††††††瀠牵攮灭潬敹彥慮敭ബ †††††††††††††††††††††††瀠牵搮捯浵湥彴畮扭牥ബ †††††††††††††††††††††††瀠牵挮浯敭瑮ബ †††††††††††††††††††††††椠整⹭牰摯捵彴潣敤ബ †††††††††††††††††††††††椠整⹭楬敮楟整彭敤捳楲瑰潩Ɱ਍††††††††††††††††††††††††瑩浥献牥慩彬畮扭牥ബ †††††††††††††††††††††††椠整⹭畱湡楴祴癟污ബ †††††††††††††††††††††††椠整⹭湵瑩潟彦敭獡牵ⱥ਍††††††††††††††††††††††††瑩浥甮楮彴潣瑳癟污✠਍††††††††††††††਍††††††††††††††䕓⁔區䱑㴠䀠兓⁌‫䘧佒⁍†瀠牵戮獫江湩彥瑩浥†††††††††††††䄠⁓瑩浥ഠ †††††††††††††††††††††††††††䤠乎剅䨠䥏⁎††瀠牵戮獫灟牵档獡⁥†††††䄠⁓異⁲传⁎異⹲止彳牴湡慳瑣潩彮摩㴠椠整⹭止彳牴湡慳瑣潩彮摩਍††††††††††††††††††††††††††††义䕎⁒佊义†††潣彡扤椮摮⁸††††††††十椠††乏椠椮摮⁸‽瑩浥椮摮硥损摯⁥਍††††††††††††††††††††††††††††††††††††††††††††††††††††††乁⁄⹩潭瑳牟捥湥彴汦条㴠✠大✧਍††††††††††††††††††††††††††††义䕎⁒佊义†††潣彡扤漮杲桮敩彲慴汢⁥†††十漠⁨†乏漠⹨牯湧损摯⁥‽⹩牯慧楮慺楴湯ഠ †††††††††††††††††††††††††††䤠乎剅䨠䥏⁎††挠慯摟⹢畦摮楨牥瑟扡敬†††䄠⁓桦†传⁎⹩畦摮㴠映⹨畦摮损摯⁥਍††††††††††††††††††††††††††††䕌呆传呕剅䨠䥏⁎汱湩彫扤漮杲楨牥江癥汥″††十漠㍨†乏漠⹨牯湧楨牥江癥汥″‽桯⸳牯桧敩彲敬敶㍬ഠ †††††††††††††††††††††††††††䰠䙅⁔問䕔⁒佊义焠楬歮摟⹢牯桧敩彲敬敶㑬††䄠⁓桯‴传⁎桯漮杲桮敩彲敬敶㑬㴠漠㑨漮杲楨牥江癥汥‴਍††††††††††††††††††††††††††††䕌呆传呕剅䨠䥏⁎汱湩彫扤昮湵桤敩彲敬敶ㅬ††十映ㅨ†乏映⹨畦摮楨牥江癥汥‱‽桦⸱畦摮楨牥江癥汥‱਍††††††††††††††††††††††††††††䕌呆传呕剅䨠䥏⁎汱湩彫扤昮湵桤敩彲敬敶㉬††十映㉨†乏映⹨畦摮楨牥江癥汥′‽桦⸲畦摮楨牥江癥汥′਍††††††††††††††††††††††††††††䕌呆传呕剅䨠䥏⁎汱湩彫扤昮湵桤敩彲敬敶㍬††十映㍨†乏映⹨畦摮楨牥江癥汥″‽桦⸳畦摮楨牥江癥汥″਍††††††††††††††††††††††††††††䕌呆传呕剅䨠䥏⁎楦⹮牸晥浟獩楳湯††††††十砠敲⁦乏椠昮湵⁤‽牸晥瀮彦畦摮䄠䑎椠瀮潲牧浡㴠砠敲⹦灰灟潲牧浡ഠ †††††††††††††††††††††††††††䰠䙅⁔問䕔⁒佊义挠杯潮⹳業獳潩⁮††††††䄠⁓獭⁮传⁎牸晥洮獩楳湯楟⁤‽獭⹮業獳潩彮摩ഠ †††††††††††††††††††††††††††䰠䙅⁔問䕔⁒佊义搠潢琮慥彭湩敤⁸††††††䄠⁓浴⁩传⁎⹩湩硤㴠琠業椮摮硥损摯⁥਍††††††††††††††††††††††††††††䕌呆传呕剅䨠䥏⁎牸晥椮摮硥灟潲敪瑣瑟灹⁥††十砠摣⁯乏椠椮摮⁸‽捸潤椮摮⁸਍††††††††††††††††††††††††††††义䕎⁒佊义†††潣湧獯瀮潲敪瑣瑟灹⁥††††十挠潤†乏挠潤瀮潲敪瑣瑟灹彥摩㴠砠摣⹯牰橯捥彴祴数楟⁤਍††††††††††††††††††††††††††††䕌呆传呕剅䨠䥏⁎扤⹯整浡††††††††††十琠⁭†乏琠業琮慥彭摩㴠琠⹭整浡楟⁤਍††††††††††††††††††††††††††††䕌呆传呕剅䨠䥏⁎慧昮灟牥潩彤捡潣湵⁴††††十愠捣⁴乏椠整⹭捡潣湵彴潣敤㴠愠捣⹴慰慟捣畯瑮਍†††††††††††††††††††††††††††††††††††††††††††††††††††††††䄠䑎䌠乏䕖呒䤨呎䰬䙅⡔佃噎剅⡔慶捲慨Ⱳ䅄䕔䑁⡄潭瑮ⱨⰶ異⹲牴湡慳瑣潩彮慤整Ⱙㄱ⤲㘬⤩㴠愠捣⹴畦汬慟捣畯瑮湩彧数楲摯ഠ †††††††††††††††††††††††††††䤠乎剅䨠䥏⁎††朠⹡彦数楲摯慟捣畯瑮瑟灹⁥†䄠⁓捡灴传⁎捡瑣瀮瑡慟捣畯瑮瑟灹⁥‽捡灴瀮瑡慟捣畯瑮瑟灹൥ †††††††††††††††††††††††††††††††††††††††††††††††††††††††乁⁄捡瑣昮汵彬捡潣湵楴杮灟牥潩⁤‽捡灴昮汵彬捡潣湵楴杮灟牥潩⁤ധഊ †††††††††††††匠呅䀠兓⁌‽區䱑⬠✠䡗剅⁅†‱‽‱਍††††††††††††††††††††††††††††乁⁄桯漮杲桮敩彲敬敶㍬䤠⁎✨䨧䅂ぁ✳⤧ഠ †††††††††††††††††††††††††††䄠䑎椠椮摮⁸低⁔义⠠✧䕍䉄㙄✵⤧✠਍††††††††††††††਍††††††††††††††䕓⁔區䱑㴠䀠兓⁌‫䄧䑎䰠䙅⡔佃噎剅⡔慶捲慨Ⱳ䅄䕔䑁⡄潭瑮ⱨⰶ異⹲牴湡慳瑣潩彮慤整Ⱙㄱ⤲㘬 䕂坔䕅⁎‧‫獀慴瑲湩䙧獩慣偬牥潩呤员⬠✠䄠䑎✠⬠䀠湥楤杮楆捳污敐楲摯塔⁔‫‧㬧਍਍††††††††††††††䙉䀠牯桧敩䱲癥汥‴㸼✠‧䕓⁔區䱑㴠䀠兓⁌‫䄧䑎漠㑨漮杲楨牥江癥汥‴义✨✧⬠䀠牯桧敩䱲癥汥‴‫✧⤧✠഻ഊ †††††††††††††䤠⁆瑀慥䥭⁄㸼〠匠呅䀠兓⁌‽區䱑⬠✠乁⁄浴琮慥彭摩㴠✠⬠䌠十⡔瑀慥䥭⁄十嘠剁䡃剁䴨塁⤩⬠✠✠഻ഊ †††††††††††††匠呅䀠兓⁌‽區䱑⬠✠剏䕄⁒奂††佃噎剅⡔义ⱔ䕌呆䌨乏䕖呒瘨牡档牡䐬呁䅅䑄洨湯桴㘬瀬牵琮慲獮捡楴湯摟瑡⥥ㄬ㈱Ⱙ⤶Ⱙഠ †††††††††††††††††††††††††††††漠㍨漮杲楨牥江癥汥ⰳഠ †††††††††††††††††††††††††††††漠㑨漮杲楨牥江癥汥ⰴഠ †††††††††††††††††††††††††††††瀠牵攮灭潬敹彥慮敭ബ †††††††††††††††††††††††††††††瀠牵琮慲獮捡楴湯摟瑡ⱥ਍††††††††††††††††††††††††††††††異⹲異捲慨敳楟癮楯散湟浵敢Ⱳ਍††††††††††††††††††††††††††††††瑩浥氮湩彥瑩浥摟獥牣灩楴湯✠਍਍††††††††††††††塅䍅䀨兓⥌഻ഊ †††††††††††䔠䑎吠奒਍††††††††††††䕂䥇⁎䅃䍔ൈ †††††††††††††䤠⁆䉏䕊呃䥟⡄搧潢倮楲瑮牅潲❲ 卉丠呏丠䱕⁌塅䍅✨塅䍅搠潢倮楲瑮牅潲❲㬩਍††††††††††††††䙉传䩂䍅彔䑉✨扤⹯潌䕧牲牯⤧䤠⁓低⁔啎䱌䔠䕘⡃䔧䕘⁃扤⹯潌䕧牲牯⤧഻ †††††††††††䔠䑎䌠呁䡃਍††††††††††久㭄਍佇
+/***************************************************************************************
+Name      : Medicine Financial System - bks_report_flatfile
+License   : Copyright (C) 2017 University of California San Diego
+            Developed for Department of Medicine by Matthew C. Vanderbilt
+****************************************************************************************
+DESCRIPTION / NOTES:
+- Provides a flat file report of Bookstore transactions
+****************************************************************************************
+PREREQUISITES:
+- bks Schema Creation & Update
+- ga Schema Creation & Update
+- qlink_db Schema Creation & Update
+- coa_db Schema Creation & Update
+***************************************************************************************/
+
+/*  GENERAL CONFIGURATION AND SETUP ***************************************************/
+PRINT '** General Configuration & Setup';
+/*  Change database context to the specified database in SQL Server. 
+    https://docs.microsoft.com/en-us/sql/t-sql/language-elements/use-transact-sql */
+USE dw_db;
+GO
+
+/*  Specify ISO compliant behavior of the Equals (=) and Not Equal To (<>) comparison
+    operators when they are used with null values.
+    https://docs.microsoft.com/en-us/sql/t-sql/statements/set-ansi-nulls-transact-sql
+    -   When SET ANSI_NULLS is ON, a SELECT statement that uses WHERE column_name = NULL 
+        returns zero rows even if there are null values in column_name. A SELECT 
+        statement that uses WHERE column_name <> NULL returns zero rows even if there 
+        are nonnull values in column_name. 
+    -   When SET ANSI_NULLS is OFF, the Equals (=) and Not Equal To (<>) comparison 
+        operators do not follow the ISO standard. A SELECT statement that uses WHERE 
+        column_name = NULL returns the rows that have null values in column_name. A 
+        SELECT statement that uses WHERE column_name <> NULL returns the rows that 
+        have nonnull values in the column. Also, a SELECT statement that uses WHERE 
+        column_name <> XYZ_value returns all rows that are not XYZ_value and that are 
+        not NULL. */
+SET ANSI_NULLS ON;
+GO
+
+/*  Causes SQL Server to follow  ISO rules regarding quotation mark identifiers &
+    literal strings.
+    https://docs.microsoft.com/en-us/sql/t-sql/statements/set-quoted-identifier-transact-sql
+    -   When SET QUOTED_IDENTIFIER is ON, identifiers can be delimited by double 
+        quotation marks, and literals must be delimited by single quotation marks. When 
+        SET QUOTED_IDENTIFIER is OFF, identifiers cannot be quoted and must follow all 
+        Transact-SQL rules for identifiers. */
+SET QUOTED_IDENTIFIER ON;
+GO
+
+/*  CREATE SCHEMA IF REQUIRED *********************************************************/
+PRINT '** Create Schema if Non-Existent';
+GO
+IF SCHEMA_ID('bks') IS NULL
+	BEGIN TRY
+        EXEC('CREATE SCHEMA bks');
+        EXEC sys.sp_addextendedproperty 
+            @name=N'MS_Description', 
+            @value=N'QueryLink Queries', 
+            @level0type=N'SCHEMA',
+            @level0name=N'bks';
+    END TRY
+    BEGIN CATCH
+        IF OBJECT_ID('dbo.PrintError') IS NOT NULL EXEC('EXEC dbo.PrintError');
+        IF OBJECT_ID('dbo.LogError') IS NOT NULL EXEC('EXEC dbo.LogError');
+    END CATCH
+GO
+
+/*  VALIDATION & CLEANUP **************************************************************/
+IF OBJECT_ID('bks.report_flatfile','P') IS NOT NULL DROP PROCEDURE bks.report_flatfile;
+GO
+
+/*  PROCEDURE CREATION ****************************************************************/
+PRINT '** CREATE PROCEDURE';
+GO
+CREATE PROCEDURE    bks.report_flatfile
+                    (
+                        @selectFullAccountingPeriod INT = 0,
+                        @pullDataPeriods VARCHAR(5) = 'FYTD',
+                        @orghierLevel4 CHAR(6) = '',
+                        @teamID INT = 0
+                    )
+                    AS
+                    BEGIN
+                        BEGIN TRY
+                            DECLARE     @SQL AS VARCHAR(MAX);
+                            DECLARE     @startingFiscalPeriod AS INT;
+                            DECLARE     @endingFiscalPeriod AS INT;
+                            DECLARE     @startingFiscalPeriodTXT AS CHAR(6);
+                            DECLARE     @endingFiscalPeriodTXT AS CHAR(6);
+
+                            IF @selectFullAccountingPeriod = 0 SET @selectFullAccountingPeriod = CAST(FORMAT(DATEADD(month,6-1,GETDATE()),'yyyyMM') AS INT);
+                            SET @endingFiscalPeriod = @selectFullAccountingPeriod;
+                            
+                            IF @pullDataPeriods = 'MTD' SET @startingFiscalPeriod = @selectFullAccountingPeriod;
+                            ELSE IF @pullDataPeriods = 'FYTD' SET @startingFiscalPeriod = CAST(SUBSTRING(CAST(CAST(SUBSTRING(CAST(@selectFullAccountingPeriod-1 AS CHAR(6)),1,4) AS INT)-1 AS CHAR(6)),1,4) + '14' AS INT);
+                            ELSE IF @pullDataPeriods = '12MTD' SET @startingFiscalPeriod = CAST(FORMAT(DATEADD(month,-12+1,CAST(CAST(@selectFullAccountingPeriod AS VARCHAR(8)) + '01' AS DATETIME2)),'yyyyMM') AS INT);
+                            ELSE SELECT @startingFiscalPeriod = MIN(d.full_accounting_period) FROM ga.f_ledger_activity AS d;
+
+                            SET @startingFiscalPeriodTXT = CAST(@startingFiscalPeriod AS VARCHAR(6));
+                            SET @endingFiscalPeriodTXT = CAST(@endingFiscalPeriod AS VARCHAR(6));
+                            
+                            SET @SQL = 'SELECT  LEFT(CONVERT(varchar,DATEADD(month,6,pur.transaction_date),112),6) AS full_accounting_period,
+                                                item.index_code, 
+                                                oh3.orghier_level3, 
+                                                oh4.orghier_level4, 
+                                                oh4.orghier_level4_title,
+                                                i.organization, 
+                                                fh.fundhier_level1, 
+                                                fh.fundhier_level2, 
+                                                fh.fundhier_level3, 
+                                                i.fund, 
+                                                (CASE   WHEN msn.mission_id IS NULL THEN 3 
+                                                        ELSE msn.mission_id 
+                                                END) AS ''Mission'',
+                                                (CASE   WHEN cdo.project_type_short IS NULL THEN ''CDO'' 
+                                                        ELSE cdo.project_type_short 
+                                                END) AS ''Project_Type'', 
+                                                i.program, 
+                                                item.account_code,
+                                                acct.pa_title,
+                                                tm.team_id, 
+                                                pur.transaction_date,
+                                                pur.purchase_invoice_number,
+                                                item.transaction_amount AS ''line_item_amount'',
+                                                pur.transaction_amount,
+                                                pur.use_tax_amount,
+                                                pur.employee_id,
+                                                pur.employee_name,
+                                                pur.document_number,
+                                                pur.comment,
+                                                item.product_code,
+                                                item.line_item_description,
+                                                item.serial_number,
+                                                item.quantity_val,
+                                                item.unit_of_measure,
+                                                item.unit_cost_val '
+                            
+                            SET @SQL = @SQL + 'FROM    pur.bks_line_item                           AS item 
+                                                        INNER JOIN      pur.bks_purchase            AS pur  ON pur.bks_transaction_id = item.bks_transaction_id
+                                                        INNER JOIN      coa_db.indx                 AS i    ON i.indx = item.index_code 
+                                                                                                            AND i.most_recent_flag = ''Y''
+                                                        INNER JOIN      coa_db.orgnhier_table       AS oh   ON oh.orgn_code = i.organization 
+                                                        INNER JOIN      coa_db.fundhier_table       AS fh   ON i.fund = fh.fund_code 
+                                                        LEFT OUTER JOIN qlink_db.orghier_level3     AS oh3  ON oh.orgnhier_level3 = oh3.orghier_level3 
+                                                        LEFT OUTER JOIN qlink_db.orghier_level4     AS oh4  ON oh.orgnhier_level4 = oh4.orghier_level4 
+                                                        LEFT OUTER JOIN qlink_db.fundhier_level1    AS fh1  ON fh.fundhier_level1 = fh1.fundhier_level1 
+                                                        LEFT OUTER JOIN qlink_db.fundhier_level2    AS fh2  ON fh.fundhier_level2 = fh2.fundhier_level2 
+                                                        LEFT OUTER JOIN qlink_db.fundhier_level3    AS fh3  ON fh.fundhier_level3 = fh3.fundhier_level3 
+                                                        LEFT OUTER JOIN fin.xref_mission            AS xref ON i.fund = xref.pf_fund AND i.program = xref.pp_program 
+                                                        LEFT OUTER JOIN cognos.mission              AS msn  ON xref.mission_id = msn.mission_id 
+                                                        LEFT OUTER JOIN dbo.team_index              AS tmi  ON i.indx = tmi.index_code 
+                                                        LEFT OUTER JOIN xref.index_project_type     AS xcdo ON i.indx = xcdo.indx 
+                                                        INNER JOIN      cognos.project_type         AS cdo  ON cdo.project_type_id = xcdo.project_type_id 
+                                                        LEFT OUTER JOIN dbo.team                    AS tm   ON tmi.team_id = tm.team_id 
+                                                        LEFT OUTER JOIN ga.f_period_account         AS acct ON item.account_code = acct.pa_account
+                                                                                                               AND CONVERT(INT,LEFT(CONVERT(varchar,DATEADD(month,6,pur.transaction_date),112),6)) = acct.full_accounting_period 
+                                                        INNER JOIN      ga.f_period_account_type    AS actp ON acct.pat_account_type = actp.pat_account_type
+                                                                                                               AND acct.full_accounting_period = actp.full_accounting_period '
+
+                            SET @SQL = @SQL + 'WHERE   1 = 1 
+                                                        AND oh.orgnhier_level3 IN (''JBAA03'') 
+                                                        AND i.indx NOT IN (''MEDBD65'') '
+                            
+                            SET @SQL = @SQL + 'AND LEFT(CONVERT(varchar,DATEADD(month,6,pur.transaction_date),112),6) BETWEEN ' + @startingFiscalPeriodTXT + ' AND ' + @endingFiscalPeriodTXT + ' ';
+
+                            IF @orghierLevel4 <> '' SET @SQL = @SQL + 'AND oh4.orghier_level4 IN(''' + @orghierLevel4 + ''') ';
+
+                            IF @teamID <> 0 SET @SQL = @SQL + 'AND tm.team_id = ' + CAST(@teamID AS VARCHAR(MAX)) + ' ';
+
+                            SET @SQL = @SQL + 'ORDER BY    CONVERT(INT,LEFT(CONVERT(varchar,DATEADD(month,6,pur.transaction_date),112),6)), 
+                                                            oh3.orghier_level3, 
+                                                            oh4.orghier_level4, 
+                                                            pur.employee_name,
+                                                            pur.transaction_date,
+                                                            pur.purchase_invoice_number,
+                                                            item.line_item_description '
+
+                            EXEC(@SQL);
+
+                        END TRY
+                        BEGIN CATCH
+                            IF OBJECT_ID('dbo.PrintError') IS NOT NULL EXEC('EXEC dbo.PrintError');
+                            IF OBJECT_ID('dbo.LogError') IS NOT NULL EXEC('EXEC dbo.LogError');
+                        END CATCH
+                    END;
+GO
