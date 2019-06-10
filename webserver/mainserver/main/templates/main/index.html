@@ -1,0 +1,11 @@
+
+<h1>Welcome to the database interfacing tool</h1>
+<span id="errormsg">{{text}}</span>
+<p>Insert your SQL Code here</p>
+<form method="POST" action="./result">
+    {% csrf_token %}
+    <textarea cols="100" rows="40" name="sqlcode"></textarea>
+    <input type="submit" value="Execute">
+</form>
+
+<a href="./normalize">Or go directly to name normalization</a>

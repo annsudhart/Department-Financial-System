@@ -1,0 +1,9 @@
+<h1>Name normalizer</h1>
+<form method="POST">
+    {% csrf_token %}
+    <p>Input a name</p><br>
+    <input type="text" name="name"><br>
+    <input type="submit" value="Normalize">
+
+    {{result}}
+</form>
