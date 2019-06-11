@@ -148,7 +148,7 @@ CREATE VIEW ql.index_balance
                     LEFT OUTER JOIN cognos.mission              AS msn  ON  xref.mission_id = msn.mission_id
                     LEFT OUTER JOIN dbo.team_index              AS tmi  ON  i.indx = tmi.index_code
                     LEFT OUTER JOIN xref.index_project_type     AS xcdo ON i.indx = xcdo.indx 
-                    INNER JOIN      cognos.project_type         AS cdo  ON  cdo.project_type_id = xcdo.project_type_id 
+                    LEFT OUTER JOIN cognos.project_type         AS cdo  ON  cdo.project_type_id = xcdo.project_type_id 
                     LEFT OUTER JOIN dbo.team                    AS tm   ON  tmi.team_id = tm.team_id
                     INNER JOIN (SELECT  bal.month_key,
                                         i.organization,
