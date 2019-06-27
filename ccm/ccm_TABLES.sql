@@ -120,7 +120,7 @@ GO
 
 PRINT '--ccm.person_index_v'
 BEGIN TRY
-    CREATE TABLE fin.coa_type
+    CREATE TABLE ccm.person_index_v
         (
             indx                            CHAR(10)                            NULL,
             fund                            CHAR(6)                             NULL,
