@@ -8,6 +8,7 @@ DESCRIPTION / NOTES:
 ****************************************************************************************
 PREREQUISITES:
 - ERROR HANDLING
+- [ccm_TABLES]
 ***************************************************************************************/
 
 /*  GENERAL CONFIGURATION AND SETUP ***************************************************/
@@ -44,24 +45,6 @@ GO
 SET QUOTED_IDENTIFIER ON;
 GO
 
-/*  CREATE SCHEMA IF REQUIRED *********************************************************/
-PRINT '** Create Schema if Non-Existent';
-GO
-IF SCHEMA_ID('ccm') IS NULL
-	BEGIN TRY
-        EXEC('CREATE SCHEMA ccm');
-        EXEC sys.sp_addextendedproperty 
-            @name=N'MS_Description', 
-            @value=N'ccm', 
-            @level0type=N'SCHEMA',
-            @level0name=N'ccm';
-    END TRY
-    BEGIN CATCH
-        IF OBJECT_ID('dbo.PrintError') IS NOT NULL EXEC('EXEC dbo.PrintError');
-        IF OBJECT_ID('dbo.LogError') IS NOT NULL EXEC('EXEC dbo.LogError');
-    END CATCH
-GO
-
 /*  DELETE EXISTING OBJECTS ***********************************************************/
 PRINT '** Delete Existing Objects';
 GO
@@ -82,8 +65,8 @@ BEGIN TRY
 
         IF @localCounter = 1
         BEGIN
-            SET @objectName ='person_index_v'
-            SET @objectType = 'U'
+            SET @objectName ='person_index_v_UPD'
+            SET @objectType = 'P'
         END
         ELSE SET @loopMe = 0
 
@@ -113,39 +96,50 @@ BEGIN CATCH
     IF OBJECT_ID('dbo.LogError') IS NOT NULL EXEC('EXEC dbo.LogError');
 END CATCH
 
-/*  CREATE TABLES *********************************************************************/
-PRINT '** Create Tables';
+/*  PROCEDURE CREATION ****************************************************************/
+PRINT '** CREATE PROCEDURE';
 GO
+CREATE PROCEDURE    ccm.person_index_v_UPD
+                    AS
+                    BEGIN
+                        BEGIN TRY
+                            DELETE FROM ccm.person_index_v
 
-PRINT '--ccm.person_index_v'
-BEGIN TRY
-    CREATE TABLE ccm.person_index_v
-        (
-            indx                            CHAR(10)                            NULL,
-            fund                            CHAR(6)                             NULL,
-            organization                    CHAR(6)                             NULL,
-            program                         CHAR(6)                             NULL,
-            full_name                       VARCHAR(55)                         NULL,
-            role_description                VARCHAR(35)                         NULL,
-            indx_title                      CHAR(35)                            NULL,
-            source_schema                   VARCHAR(6)                          NULL,
-            from_budget_date                DATE                                NULL,
-            to_budget_date                  DATE                                NULL,
-            from_award_date                 DATE                                NULL,
-            to_award_date                   DATE                                NULL,
-            indx_status                     CHAR(8)                             NULL,
-            createdby                       NVARCHAR(255)                   NOT NULL                                                    DEFAULT USER_NAME(),
-            createddate                     DATETIME2	                    NOT NULL                                                    DEFAULT SYSUTCDATETIME(),
-            lastupdatedby                   NVARCHAR(255)                       NULL,
-            lastupdated                     DATETIME2(2)                        NULL,
-            rowguid                         UNIQUEIDENTIFIER    ROWGUIDCOL  NOT NULL                                                    DEFAULT NEWSEQUENTIALID(),
-            versionnumber                   ROWVERSION						NOT	NULL,
-            validfrom                       DATETIME2(2)                    NOT NULL                                                    DEFAULT SYSUTCDATETIME(),
-            validto                         DATETIME2(2)                    NOT NULL                                                    DEFAULT CAST('9999-12-31 12:00:00' AS DATETIME2(2))
-        )
-END TRY
-BEGIN CATCH
-    IF OBJECT_ID('dbo.PrintError') IS NOT NULL EXEC('EXEC dbo.PrintError');
-    IF OBJECT_ID('dbo.LogError') IS NOT NULL EXEC('EXEC dbo.LogError');
-END CATCH
+                            INSERT INTO ccm.person_index_v
+                                        (
+                                            indx,
+                                            fund,
+                                            organization,
+                                            program,
+                                            full_name,
+                                            role_description,
+                                            indx_title,
+                                            source_schema,
+                                            from_budget_date,
+                                            to_budget_date,
+                                            from_award_date,
+                                            to_award_date,
+                                            indx_status
+                                        )
+                            SELECT      dw.indx,
+                                        dw.fund,
+                                        dw.organization,
+                                        dw.program,
+                                        dw.full_name,
+                                        dw.role_description,
+                                        dw.indx_title,
+                                        dw.source_schema,
+                                        dw.from_budget_date,
+                                        dw.to_budget_date,
+                                        dw.from_award_date,
+                                        dw.to_award_date,
+                                        dw.indx_status
+                            FROM        DW_DB..CCM.PERSON_INDEX_V AS dw
+
+                        END TRY
+                        BEGIN CATCH
+                            IF OBJECT_ID('dbo.PrintError') IS NOT NULL EXEC('EXEC dbo.PrintError');
+                            IF OBJECT_ID('dbo.LogError') IS NOT NULL EXEC('EXEC dbo.LogError');
+                        END CATCH
+                    END;
 GO
