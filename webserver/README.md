@@ -10,10 +10,10 @@ Financial Department's SQL Server.
 * Django 2.2 with the terminal command `pip install django`
 * In addition, install anything imported through fuzzymatch.py
 
-3. Install mod_wsgi to connect web application to Apache  
+2. Install mod_wsgi to connect web application to Apache  
 Make a copy of the Apache24 folder and put it under the C:/ folder.
 Then run the following script in your terminal: `pip install mod_wsgi`.
-4. Modify paths in code for Apache configuration
+3. Modify paths in code for Apache configuration
 In line 37, which looks like the following:
 `Define SRVROOT "c:/users/ahsudharta/documents/web-server/Apache24"`
 And in lines 543 - 549:
@@ -27,10 +27,12 @@ WSGIPythonPath 'C:/users/ahsudharta/documents/web-server/mainserver'
 <Directory "/Users/ahsudharta/Documents/web-server/mainserver/mainserver">
 ~~~
 Replace the following lines of code with the proper file pathways, and that it matches up with the output of the terminal script `mod_wsgi-express module-config`.
-5. Run the server!
+4. Run the server!
 On the command line terminal go to the directory where web-server is and then run `./Apache24/bin/httpd.exe`. Then go to your web browser and type in localhost/main.
 
 ## Current Status
-Able to connect to the T-SQL Server. However, T-SQL input processing/validating still needs to be done.
-Still need to work on the interface design.
+Working on displaying to user if they are connected to the database or not before running SQL code
 
+## Development Status
+Created part of the main page as per the interface design. Just waiting on more details
+that I can work on.
