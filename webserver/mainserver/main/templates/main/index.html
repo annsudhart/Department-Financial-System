@@ -1,11 +1,40 @@
-
-<h1>Welcome to the database interfacing tool</h1>
-<span id="errormsg">{{text}}</span>
-<p>Insert your SQL Code here</p>
-<form method="POST" action="./result">
-    {% csrf_token %}
-    <textarea cols="100" rows="40" name="sqlcode"></textarea>
-    <input type="submit" value="Execute">
-</form>
-
-<a href="./normalize">Or go directly to name normalization</a>
+<head>
+    <title>Web Server Name</title>
+    {% load static %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.js"></script>
+    <link rel="icon" href="{% static 'main/media/favi.jpg' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'main/css/main.css' %}">
+    <script type="text/javascript" charset="utf-8" src="{% static 'main/js/connect.js' %}"></script>
+</head>
+<body>
+    <h1>Web server name</h1>
+    <span id="connectmsg">Connecting to the database...</span>
+    <form>
+        <div class="input-row">
+            <span>Input 1:</span><input type="text" name="input1" value="">
+        </div>
+        <div class="input-row">
+            <span>Input 1:</span><input type="text" name="input1" value="">
+        </div>
+        <div class="input-row">
+            <span>Input 1:</span><input type="text" name="input1" value="">
+        </div>
+        <div class="input-row">
+            <span>Input 1:</span><input type="text" name="input1" value="">
+        </div>
+        <div class="input-row">
+            <span>Input 1:</span><input type="text" name="input1" value="">
+        </div>
+        <div class="input-row">
+            <span>Input 1:</span><input type="text" name="input1" value="">
+        </div>
+        <div class="input-row">
+            <span>Input 1:</span><input type="text" name="input1" value="">
+        </div>
+        <div class="input-row">
+            <span>Input 1:</span><input type="text" name="input1" value="">
+        </div>
+        <input type="submit" value="Run Program">
+    </form>
+</body>

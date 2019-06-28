@@ -34,6 +34,15 @@ def first_last(s):
     return "%s %s" % (name.first.upper(), name.last.upper())
 
 def connect():
+    """
+    Connects to the MSSQL Database. If you're not connected via VPN,
+    the function will take around 20 seconds to complete.
+
+    Returns
+    ----------
+    conn: The instance of the database.
+
+    """
     conn = db.connect(get_connect_info())
     return conn
 
