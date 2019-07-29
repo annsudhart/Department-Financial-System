@@ -2,39 +2,64 @@
     <title>Web Server Name</title>
     {% load static %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
     <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.js"></script>
     <link rel="icon" href="{% static 'main/media/favi.jpg' %}">
     <link rel="stylesheet" type="text/css" href="{% static 'main/css/main.css' %}">
     <script type="text/javascript" charset="utf-8" src="{% static 'main/js/connect.js' %}"></script>
+    <script async type="text/javascript" charset="utf-8" src="{% static 'main/js/download.js' %}"></script>
 </head>
 <body>
     <h1>Web server name</h1>
     <span id="connectmsg">Connecting to the database...</span>
-    <form>
-        <div class="input-row">
-            <span>Input 1:</span><input type="text" name="input1" value="">
-        </div>
-        <div class="input-row">
-            <span>Input 1:</span><input type="text" name="input1" value="">
-        </div>
-        <div class="input-row">
-            <span>Input 1:</span><input type="text" name="input1" value="">
-        </div>
-        <div class="input-row">
-            <span>Input 1:</span><input type="text" name="input1" value="">
-        </div>
-        <div class="input-row">
-            <span>Input 1:</span><input type="text" name="input1" value="">
-        </div>
-        <div class="input-row">
-            <span>Input 1:</span><input type="text" name="input1" value="">
-        </div>
-        <div class="input-row">
-            <span>Input 1:</span><input type="text" name="input1" value="">
-        </div>
-        <div class="input-row">
-            <span>Input 1:</span><input type="text" name="input1" value="">
-        </div>
-        <input type="submit" value="Run Program">
-    </form>
+    <div id="main">
+        <form method="POST">
+            {% csrf_token %}
+            {% if display %}
+                {% for x in values %}
+                <div class="input-row">
+                        {% if x.1 == '--------' %}
+                            <span>Input {{ x.0 }}:</span><input type="text" name="input{{x.0}}" value="">
+                        {% else %}
+                            <span>Input {{ x.0 }}:</span><input type="text" name="input{{x.0}}" value="{{x.1}}">
+                        {% endif %}
+                </div>
+                {% endfor %}
+            {% else %}
+                {% for i in range %}
+                <div class="input-row">
+                        <span>Input {{ i }}:</span><input type="text" name="input{{i}}" value="">
+                </div>
+                {% endfor %}
+            {% endif %}
+
+            <input class="button" type="submit" value="Run Program">
+        </form>
+    </div>  
+    
+    {% if display %}
+    <div class="button-row">
+        <button class="button" id="download">Export to CSV</button>
+    </div>
+    <div class="table-wrapper">
+        <table class="table-load table table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    {% for header in outputname %}
+                    <th>{{ header.0 }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in output %}
+                <tr>
+                    {% for value in row %}
+                    <td>{{value}}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}  
 </body>

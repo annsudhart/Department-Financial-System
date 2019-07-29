@@ -2,6 +2,12 @@ from django.shortcuts import render
 
 from . import scripts
 
+not_connected_msg = "You are not connected to the database. " \
+                    "Try enabling your VPN and then refreshing your browser."
+connected_msg = "You are connected!"
+index_url = "main/index.html"
+connect_url = "main/connect.html"
+
 def normalize(request):
     """ 
     Handles requests and displayment of /normalize.html.
@@ -40,7 +46,48 @@ def index(request):
     HttpResponse
         The main/index.html web page
     """
-    return render(request, 'main/index.html')
+    default_formval =  '--------'
+    form_input_prefix = 'input'
+    default_width = 8
+    default_height = 100
+
+    width = default_width
+    height = default_height
+
+    # info to be passed as part of the HTTP request
+    context = { 'range': range(1, width), 
+                'rows': range(height), 
+                'display' : False }
+
+    # a list of tuples containing the value name 
+    # and their corresponding name from the form input
+    formvals = []
+    if request.method == 'POST':
+        # gather form input
+        for i in range(1, 8):
+            # val: a tuple with valuename and value to be added onto formvals
+            val = (i, request.POST[form_input_prefix + str(i)])
+            if val[1] == '':
+                val = (i, default_formval)
+            formvals.append(val)
+        context['display'] = True
+        # TODO: gather form output
+        conn = scripts.connect()
+        cursor = scripts.view(conn)
+        tableoutput = []
+        while True:
+            row = cursor.fetchone()
+            # versionnumber, which is of type bytes
+            if not row:
+                break
+            row.versionnumber = row.versionnumber.hex()
+            tableoutput.append(row) 
+        context['outputname'] = cursor.description
+        context['output'] = tableoutput
+    context['values'] = formvals
+    if request.method == 'POST':
+        return render(request, index_url, context)
+    return render(request, index_url, context)
 
 def connect(request):
     """ 
@@ -57,12 +104,11 @@ def connect(request):
     HttpResponse
         The main/connect.html web page displaying database connection status
     """
-    context = {'text': "You aren't connected to the database. Try enabling " 
-                       "your VPN and then refreshing your browser."}
+    context = {'text': not_connected_msg}
     try:
         conn = scripts.connect()
         print(conn)
-        context['text'] = 'You are connected!'
+        context['text'] = connected_msg
     except:
-        context['text'] = "You aren't connected to the database. Try enabling your VPN and then refreshing your browser."
-    return render(request, 'main/connect.html', context)
+        context['text'] = not_connected_msg
+    return render(request, connect_url, context)

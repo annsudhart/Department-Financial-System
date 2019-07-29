@@ -35,6 +35,7 @@ def first_last(s):
 
 def connect():
     """
+    
     Connects to the MSSQL Database. If you're not connected via VPN,
     the function will take around 20 seconds to complete.
 
@@ -71,3 +72,31 @@ def update_bks_matched():
     cursor.execute("DROP TABLE pur.temp_table")
     conn.commit()
     cursor.close()
+
+def view(conn):
+    cursor = conn.cursor()
+    return cursor.execute( """SELECT TOP (100) 
+        [bks_transaction_id],
+        [modification_indicator],      
+        [transaction_date],      
+        [purchase_invoice_number], 
+        [discount_amount],      
+        [freight_amount],      
+        [duty_amount],      
+        [order_date],      
+        [transaction_amount],      
+        [use_tax_flag], 
+        [use_tax_amount],      
+        [employee_id],      
+        [employee_name],      
+        [document_number],      
+        [comment],      
+        [createdby],      
+        [createddate],      
+        [lastupdatedby],      
+        [lastupdated],      
+        [rowguid],      
+        [versionnumber],      
+        [validfrom],      
+        [validto]
+        FROM [bso_dev].[pur].[bks_purchase]""" )

@@ -1,11 +1,17 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
     margin: 0;
 }
 
 h1 {
     margin: 25px auto;
     text-align: center;
+}
+
+#main {
+    width: 50%;
+    margin: 0 auto;
 }
 
 #connectmsg {
@@ -17,15 +23,14 @@ h1 {
 }
 
 .connected-true {
-    background: rgba(0, 255,0,0.3);
+    background: rgba(0, 255, 0, 0.3);
 }
 
 .connected-false {
-    background: rgba(255,0,0,0.3);
+    background: rgba(255, 0, 0, 0.3);
 }
 
 form {
-    width: 50%;
     margin: 0 auto;
     background-color: #EFEFEF;
     padding:  25px;
@@ -45,26 +50,120 @@ form {
 input[type=text] {
     width: calc(100% - 200px);
     border: none;
-    height: 30px;
+    height: 35px;
     padding: 3px 8px;
+    font-size: 1em;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus {
+  font-size: 1em;
+  background-color: white;
+  transition: background-color 5000s ease-in-out 0s;
 }
 
 input[type=submit] {
     float: right;
+}
+
+.button-row {
+    margin: 0 auto;
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.button {
     margin-top: 10px;
     border: none;
     background-color: #1074E7;
+    box-shadow: 0px 2px 2px #888;
     padding: 10px 15px;
     color: white;
+    transition: 0.1s;
+    font-size: 1em;
 }
 
+.button:hover {
+    background-color: #0B4A93;
+    cursor: pointer;
+    box-shadow: none;
+}
+
+.table-wrapper {
+    overflow: scroll;
+    max-height: 80%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    font-size: 1em;
+    background-color: transparent;
+    border-collapse: collapse;
+}
+
+th, td {
+    min-width: 200px;
+    min-height: 20px;
+}
+
+th {
+    text-align: inherit;
+}
+
+tbody {
+    overflow: auto;
+}
+
+.table .thead-dark th{
+    color: #fff;
+    background-color: #343A40;
+    border-color: #454d55;
+    position: sticky;
+    top: 0;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.table th {
+    border-top: 1px solid #dee2e6;
+    padding: 1rem;
+}
+
+.table td { 
+    border-top: 1px solid #dee2e6;
+    padding: 0.5rem;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.1);
+}
 
 @media only screen and (max-width: 800px) {
-    form {
+
+    body {
+        font-size: 1em;
+    }
+    #main {
         width: 75%;
     }
-    
+
+    .table-wrapper {
+        font-size: medium;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
     input[type=text] {
+        margin: 10px 0px;
         width: 100%;
     }
 }
