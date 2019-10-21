@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from django.views.decorators.csrf import ensure_csrf_cookie
 
 from . import scripts
 import json
@@ -33,6 +34,7 @@ def normalize(request):
     print('returning normalize webpage...')
     return render(request, 'main/normalize.html', context)
 
+@ensure_csrf_cookie
 def index(request):
     """ 
     Handles requests and displayment of /index.html.
