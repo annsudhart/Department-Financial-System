@@ -1,4 +1,4 @@
-# UCSD SQL web server
+# UCSD SQL Web Server
 This is a web server that interfaces the UCSD School of Medicine 
 Financial Department's SQL Server. 
 
@@ -16,7 +16,7 @@ Then run the following script in your terminal: `pip install mod_wsgi`.
 3. Modify paths in code for Apache configuration
 In line 37, which looks like the following:
 `Define SRVROOT "c:/users/ahsudharta/documents/web-server/Apache24"`
-And in lines 543 - 549:
+And in lines 541 - 548:
 ~~~
 LoadFile 'C:/users/ahsudharta/appdata/local/continuum/anaconda3/python37.dll'
 LoadModule wsgi_module 'C:/users/ahsudharta/appdata/local/continuum/anaconda3/lib/site-packages/mod_wsgi-4.6.5-py3.7-win-amd64.egg/mod_wsgi/server/mod_wsgi.cp37-win_amd64.pyd'
@@ -31,8 +31,4 @@ Replace the following lines of code with the proper file pathways, and that it m
 On the command line terminal go to the directory where web-server is and then run `./Apache24/bin/httpd.exe`. Then go to your web browser and type in localhost/main.
 
 ## Current Status
-Working on displaying to user if they are connected to the database or not before running SQL code
-
-## Development Status
-Created part of the main page as per the interface design. Just waiting on more details
-that I can work on.
+Reevaluating backend architecture as I integrate React for the frontend.

@@ -1,0 +1,22 @@
+
+#form-container {
+    margin: 0px 25px;
+}
+
+.input-row {
+    padding: 10px 0px;
+}
+
+.input-row span {
+    display: inline-block;
+    width: 200px;
+}
+
+input[type=text] {
+    width: 100%;
+    border: none;
+    height: 35px;
+    padding: 3px 8px;
+    font-size: 1em;
+    box-sizing: border-box;
+}

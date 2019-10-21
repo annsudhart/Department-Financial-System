@@ -1,6 +1,7 @@
 from django.shortcuts import render
 
 from . import scripts
+import json
 
 not_connected_msg = "You are not connected to the database. " \
                     "Try enabling your VPN and then refreshing your browser."
@@ -55,9 +56,12 @@ def index(request):
     height = default_height
 
     # info to be passed as part of the HTTP request
-    context = { 'range': range(1, width), 
-                'rows': range(height), 
-                'display' : False }
+    context = { 'range': list(range(1, width)), 
+                'rows': list(range(height)), 
+                'display' : False,
+                'output': [], 
+                'outputname': (),
+                'values': [] }
 
     # a list of tuples containing the value name 
     # and their corresponding name from the form input
@@ -71,7 +75,6 @@ def index(request):
                 val = (i, default_formval)
             formvals.append(val)
         context['display'] = True
-        # TODO: gather form output
         conn = scripts.connect()
         cursor = scripts.view(conn)
         tableoutput = []
@@ -84,7 +87,8 @@ def index(request):
             tableoutput.append(row) 
         context['outputname'] = cursor.description
         context['output'] = tableoutput
-    context['values'] = formvals
+    context['values'] = json.dumps(formvals)
+    print(context['values'])
     if request.method == 'POST':
         return render(request, index_url, context)
     return render(request, index_url, context)

@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+{% load render_bundle from webpack_loader %}
 <head>
     <title>Web Server Name</title>
     {% load static %}
@@ -8,33 +10,22 @@
     <link rel="stylesheet" type="text/css" href="{% static 'main/css/main.css' %}">
     <script type="text/javascript" charset="utf-8" src="{% static 'main/js/connect.js' %}"></script>
     <script async type="text/javascript" charset="utf-8" src="{% static 'main/js/download.js' %}"></script>
+    <script async>
+        window.props = {
+            'display': "{{display | safe}}",
+            'values': {{values | safe}},
+            'range': {{range | safe}}
+        };
+        window.react_mount = document.getElementById('main');
+    </script>
 </head>
 <body>
+    <noscript>Please enable your browser's JavaScript</noscript>
     <h1>Web server name</h1>
     <span id="connectmsg">Connecting to the database...</span>
     <div id="main">
-        <form method="POST">
-            {% csrf_token %}
-            {% if display %}
-                {% for x in values %}
-                <div class="input-row">
-                        {% if x.1 == '--------' %}
-                            <span>Input {{ x.0 }}:</span><input type="text" name="input{{x.0}}" value="">
-                        {% else %}
-                            <span>Input {{ x.0 }}:</span><input type="text" name="input{{x.0}}" value="{{x.1}}">
-                        {% endif %}
-                </div>
-                {% endfor %}
-            {% else %}
-                {% for i in range %}
-                <div class="input-row">
-                        <span>Input {{ i }}:</span><input type="text" name="input{{i}}" value="">
-                </div>
-                {% endfor %}
-            {% endif %}
-
-            <input class="button" type="submit" value="Run Program">
-        </form>
+            {% render_bundle 'index' %}
+       
     </div>  
     
     {% if display %}
@@ -63,3 +54,4 @@
     </div>
     {% endif %}  
 </body>
+</html>

@@ -1,0 +1,24 @@
+form {
+    margin: 0 auto;
+    background-color: #EFEFEF;
+    padding:  25px;
+    overflow: hidden;
+    max-width: 900px;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus {
+  font-size: 1em;
+  background-color: white;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+input[type=submit] {
+    float: right;
+    margin-right: 25px;
+}
+
+input[type=submit]:disabled {
+  opacity: 0.5;
+}

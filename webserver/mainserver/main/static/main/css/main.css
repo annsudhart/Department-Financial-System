@@ -38,6 +38,10 @@ form {
     max-width: 900px;
 }
 
+#form-container {
+    margin: 0px 25px;
+}
+
 .input-row {
     padding: 10px 0px;
 }
@@ -48,11 +52,12 @@ form {
 }
 
 input[type=text] {
-    width: calc(100% - 200px);
+    width: 100%;
     border: none;
     height: 35px;
     padding: 3px 8px;
     font-size: 1em;
+    box-sizing: border-box;
 }
 
 input:-webkit-autofill,
@@ -93,9 +98,11 @@ input[type=submit] {
 
 .table-wrapper {
     overflow: scroll;
-    max-height: 80%;
+    max-height: 1000px;
+    height: 50%;
     width: 80%;
     margin: 0 auto;
+    margin-bottom: 100px;
 }
 
 table {

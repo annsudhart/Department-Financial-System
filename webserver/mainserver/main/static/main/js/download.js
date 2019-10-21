@@ -26,7 +26,7 @@ function exportToCsv(tableElement) {
     csvFile = new Blob([csvFileString], {type: 'text/csv'});
 
     downloadLink = document.createElement('a');
-    downloadLink.download = "results.csv";
+    downloadLink.download = tableElement + ".csv";
     downloadLink.href = window.URL.createObjectURL(csvFile);
     downloadLink.style.display = 'none';
     document.body.append(downloadLink);
@@ -35,5 +35,8 @@ function exportToCsv(tableElement) {
 
 // event listener for download button
 $('#download').click(function() {
-    exportToCsv($('table'));
+    let filename = prompt("Type in the new file name", "table")
+    exportToCsv(filename);
 });
+
+// $('#download').click(function() {console.log('downloading...')});
